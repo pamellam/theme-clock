@@ -1,4 +1,4 @@
-# Clock App Readme
+# Theme Clock 
 
 This project is a simple clock application built using HTML, CSS, and JavaScript. It provides both a digital and an analog representation of the current time, along with the current date. Additionally, it includes a toggle button to switch between light and dark modes.
 
